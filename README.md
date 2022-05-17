@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://reusable-input-component.netlify.app">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://devchallenges.io/solutions/9DwomQfPqAGuUq7bYKcM">
       Solution
     </a>
     <span> | </span>
@@ -31,34 +31,46 @@
 - [Features](#features)
 - [How to use](#how-to-use)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://i.postimg.cc/kgDJ0Lwz/image.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- Where can I see your demo? is at https://reusable-input-component.netlify.app
+- What was your experience?  very straight foward project to get comfortable with the syntax of the framework used.
+- What have you learned/improved? I improved my knowledge about inputs, label, and textarea, and how to style them at will.
+- Your wisdom? If you want to change the style of the label while is on hover, you have to place it below the input and add .("the-input-class"):hover + "("the label class")" and then add the desired styles.  
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
 - [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [sass](https://sass-lang.com/)
+- [styled components](https://styled-components.com/)
 
 ## Features
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/TSqutYM4c5WtluM7QzGp) was to build an application to complete the given user stories.
+
+- [x] User story: I can see error state
+- [x] User story: I can choose to disable input
+- [x] User story: I can choose to have helper text
+- [x] User story: I can choose to have an icon on the left or right (Use Google Icon and at least 5 variants)
+- [x] User story: I can have different input sizes
+- [x] User story: I can have different colors
+- [x] User story: I can choose to have input take the width of the parent
+- [x] User story: I can have multiline input like a textarea
+- [x] User story: When I hover or focus, I can see visual indicators
+- [x] User story: I can still access all input attributes
+- [x] User story (optional): Show input in a similar way like the design or use Storybook. Otherwise, showing the input in multiple states is enough
+
 
 ## How To Use
 
@@ -68,7 +80,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/your-user-name/your-project-name
+$ git clone git@github.com:Jeremy-Polanco/Input-component.git
 
 # Install dependencies
 $ npm install
@@ -87,6 +99,5 @@ $ npm start
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- GitHub [@Jeremy-Polanco](https://github.com/Jeremy-Polanco)
+
