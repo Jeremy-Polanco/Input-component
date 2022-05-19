@@ -46,7 +46,7 @@ const Input = ({
             error && "error"
           } ${disabled && "disabled"} ${
             (startIcon && "input-with-start-icon") ||
-            (endIcon && "input-with-icon")
+            (endIcon && "input-with-end-icon")
           } ${size === "sm" && "small-input"} ${size === "md" && "medium-input"}
         ${fullWidth && "full-width"}`}
         ></input>
