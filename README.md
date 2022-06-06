@@ -59,17 +59,11 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/TSqutYM4c5WtluM7QzGp) was to build an application to complete the given user stories.
 
-- [x] User story: I can see error state
-- [x] User story: I can choose to disable input
-- [x] User story: I can choose to have helper text
-- [x] User story: I can choose to have an icon on the left or right (Use Google Icon and at least 5 variants)
-- [x] User story: I can have different input sizes
-- [x] User story: I can have different colors
-- [x] User story: I can choose to have input take the width of the parent
-- [x] User story: I can have multiline input like a textarea
-- [x] User story: When I hover or focus, I can see visual indicators
-- [x] User story: I can still access all input attributes
-- [x] User story (optional): Show input in a similar way like the design or use Storybook. Otherwise, showing the input in multiple states is enough
+- [x] User story: I can add a new task
+- [x] User story: I can complete a task
+- [x] User story: I can toggle between All, Active and Completed
+- [x] User story: I can remove one or all tasks under the Completed tab
+- [x] User story (optional): Store the data in local storage that when I refresh the page I can still see my progress
 
 
 ## How To Use
